@@ -1,4 +1,6 @@
-¡Hola!👋 Soy Sofía, una Desarrolladora Full Stack 👨‍💻. Me apasiona trabajar en proyectos desafiantes que me permitan poner en práctica mis habilidades y aprender cosas nuevas.
+
+### <div align="center">¡Hola! Soy Sofía, una Desarrolladora Full Stack 👨‍💻. 
+Me apasiona trabajar en proyectos desafiantes que me permitan poner en práctica mis habilidades y aprender cosas nuevas.
 
 Como desarrolladora, he trabajado en proyectos de diferentes tamaños y complejidades, lo que me ha permitido adquirir experiencia en una variedad de tecnologías y herramientas.
 
@@ -6,21 +8,52 @@ Realice proyectos con lenguajes y herramientas de programación como JavaScript,
 
 Me encanta trabajar en equipo y estoy comprometida con ofrecer soluciones de alta calidad en plazos ajustados. Me esfuerzo por mantenerme actualizada en las últimas tendencias y tecnologías en mi campo, participando en comunidades de desarrolladores.
 
-Mi objetivo es seguir creciendo como desarrolladora y contribuir al éxito de la empresa o proyecto en el que trabaje. Si buscas una desarrolladora Full Stack apasionada y comprometida, ¡no dudes en contactarme!
+Mi objetivo es seguir creciendo como desarrolladora y contribuir al éxito de la empresa o proyecto en el que trabaje. Si buscas una desarrolladora Full Stack apasionada y comprometida, ¡no dudes en contactarme!</div>  
+  
+
+<br/>  
 
 
-Idiomas y herramientas:
-
-JavaScript, Node.js, React, Redux, Sequelize, Bootstrap, CSS, Figma, PostgreSQL, Postman.
-
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 
-![image](https://user-images.githubusercontent.com/110557305/225637493-07e4ca01-3e7a-40fe-807d-565a19d123aa.png)
-![image](https://user-images.githubusercontent.com/110557305/225637609-00efb846-0070-431d-985c-f9611593fbc4.png)
-![image](https://user-images.githubusercontent.com/110557305/225637683-ab6afd34-4353-49ea-a0db-0029d8bd6f80.png)
-![image](https://user-images.githubusercontent.com/110557305/225637772-65fcadd4-2649-48ad-ad44-17561210d2d4.png)
-![image](https://user-images.githubusercontent.com/110557305/225637987-9f67583a-73af-4743-bc06-a7a65a0ad317.png)
-![image](https://user-images.githubusercontent.com/110557305/225638053-52c450c6-debe-4e08-b41e-dc4b6409aac8.png)
-![image](https://user-images.githubusercontent.com/110557305/225638122-59d9d252-b72f-4f99-b8c9-c5b609140e3f.png)
-![image](https://user-images.githubusercontent.com/110557305/225638165-38e623a4-5b71-4dc9-adcb-d363d9044769.png)
-![image](https://user-images.githubusercontent.com/110557305/225638229-a31a5227-4589-47c1-9e40-5397a1757e15.png)
+
+### Idiomas y herramientas 
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+</div>
+
+
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/sofi-arias" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sofia-arias-a42366119/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+
+ 
